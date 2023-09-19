@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Don Mathew
 - I’m interested in
   - Theoretical and Computational Physics
-- 🌱 I’m currently learning theoretical optics
+- 🌱 I’m currently learning Theoretical Optics
 
 
 <!---
