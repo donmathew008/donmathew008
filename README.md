@@ -2,7 +2,7 @@
 - I’m interested in
   - Theoretical and Computational Physics
   - Electronics
-- 🌱 I’m currently learning Theoretical Optics
+- 🌱 I’m currently learning Topological Photonics
 
 
 <!---
